@@ -34,5 +34,8 @@ Pastikan Anda memiliki perangkat lunak berikut sebelum memulai:
 
 Mulailah dengan meng-clone repository ini ke dalam direktori lokal Anda:
 
-```bash
+```
 git clone https://github.com/Biimmss/belajar_rsapi.git
+```
+
+<img src="![alt text](image.png)>
