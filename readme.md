@@ -38,4 +38,4 @@ Mulailah dengan meng-clone repository ini ke dalam direktori lokal Anda:
 git clone https://github.com/Biimmss/belajar_rsapi.git
 ```
 
-<img src="![alt text](image.png)>
+<img src="image.png">
